@@ -109,7 +109,8 @@ window.LEARNING_MAP = {
         { href: "https://arize.com/docs/phoenix", tag: "Tool", tagClass: "bg-emerald-100 text-emerald-700", meta: "", title: "Arize Phoenix", desc: "开源 LLM 可观测性" },
         { href: "https://langfuse.com/", tag: "Tool", tagClass: "bg-emerald-100 text-emerald-700", meta: "", title: "Langfuse", desc: "Tracing · 评估 · Prompt 管理" },
         { href: "https://www.deeplearning.ai/short-courses/", tag: "Courses", tagClass: "bg-blue-100 text-blue-700", meta: "", title: "DeepLearning.AI LLMOps 相关短课", desc: "生产部署与运维实践" },
-        { href: "https://www.evidentlyai.com/ml-observability-course", tag: "Course", tagClass: "bg-blue-100 text-blue-700", meta: "Free", title: "Evidently AI Observability Course", desc: "ML / LLM 监控基础" }
+        { href: "https://www.evidentlyai.com/ml-observability-course", tag: "Course", tagClass: "bg-blue-100 text-blue-700", meta: "Free", title: "Evidently AI Observability Course", desc: "ML / LLM 监控基础" },
+        { href: "https://vostride.com/docs/agent-qa/guides/coding-agent-workflow", tag: "Guide", tagClass: "bg-slate-100 text-slate-700", meta: "vostride · 英文文档", title: "agent-qa 回归验证工作流", desc: "MCP 测试、证据复查与修复后重跑；工具提供 memidex 持久记忆与经验证的自我改进" }
       ]
     },
     {
